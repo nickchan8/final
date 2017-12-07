@@ -91,6 +91,35 @@ Level of Satisfaction
 
 ### Takeaways
 
+#### Network 
+Individuals on the spectrum's social network is vastly smaller than that of a neurotypicals. 
+Individuals on the spectrum's social formal networks are larger than neurotypicals.
+
+#### Interaction Types
+Invididuals on the spectrum prefer telephone over face to face over internet interactions.
+Though individuals on the spectrum's social network is smaller, they have reportedly more interactions with that network. 
+Individuals on the spectrum have more interactions on with formal networks on the phone than face to face. 
+The amount of interactions with their networks is more than that of a neurotypical. 
+Neurotypicals tend to have a less, but a wider variety of interactions.
+Neurotypicals prefer face to face over telephone over internet interactions.
+
+#### Level of Satisfaction
+Individuals on the spectrum are in general much more dissatisfied with the state of their social networks. 
+The majority of their dissatisfaction is with their informal acquaintances (23%). 
+
+#### What do they want?
+Total Network
+30% of Individuals on the spectrum want improved social skills. 
+
+Family
+60% want better contact with family members. 
+
+Acquaintances
+20% want improved social skills
+20% want expanded network.
+
+Professionals
+44% want better contact
 
 ### Analyzing
 
