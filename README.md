@@ -73,8 +73,24 @@ Size of Network
 Level of Satisfaction
 ![Level of Satisfaction](https://i.imgur.com/SoeotYf.png)
 
-Frequency of Interaction
-![Frequency of Interaction](https://i.imgur.com/CG1VTWj.png)
+Type of Interaction
+![Type of Interaction](https://i.imgur.com/CG1VTWj.png)
+
+### Prototypes
+
+Size of Network
+![Size of Network](https://i.imgur.com/TB2EM5q.png)
+
+Type of Interaction
+![Type of Interaction-ASD](https://i.imgur.com/7D17iov.png)
+![Type of Interaction-Neurotypicals](https://i.imgur.com/yr6vFPQ.png)
+
+Level of Satisfaction
+![Satisfaction-ASD](https://i.imgur.com/8Ly74or.png)
+![Satisfaction-Neurotypicals](https://i.imgur.com/smi85VF.png)
+
+### Takeaways
+
 
 ### Analyzing
 
