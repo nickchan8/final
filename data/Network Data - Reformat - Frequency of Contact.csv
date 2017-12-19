@@ -1,0 +1,28 @@
+Individual Type,Interaction Type,Network member,Frequency
+Individuals with ID,Face-to-face,Family,81.61
+Individuals with ID,Face-to-face,Acquaintances,116.96
+Individuals with ID,Face-to-face,Professionals,65.95
+Individuals with ID,Telephone,Family,102.48
+Individuals with ID,Telephone,Acquaintances,97.41
+Individuals with ID,Telephone,Professionals,13.11
+Individuals with ID,Internet,Family,23.67
+Individuals with ID,Internet,Acquaintances,52.78
+Individuals with ID,Internet,Professionals,2.02
+Individuals with Autism Spectrum Disorder,Face-to-face,Family,90.8
+Individuals with Autism Spectrum Disorder,Face-to-face,Acquaintances,63.28
+Individuals with Autism Spectrum Disorder,Face-to-face,Professionals,56.86
+Individuals with Autism Spectrum Disorder,Telephone,Family,93.63
+Individuals with Autism Spectrum Disorder,Telephone,Acquaintances,74.28
+Individuals with Autism Spectrum Disorder,Telephone,Professionals,69.13
+Individuals with Autism Spectrum Disorder,Internet,Family,31.14
+Individuals with Autism Spectrum Disorder,Internet,Acquaintances,64.13
+Individuals with Autism Spectrum Disorder,Internet,Professionals,19.04
+Individuals in Community (Reference),Face-to-face,Family,95.73
+Individuals in Community (Reference),Face-to-face,Acquaintances,51.06
+Individuals in Community (Reference),Face-to-face,Professionals,51.17
+Individuals in Community (Reference),Telephone,Family,116.77
+Individuals in Community (Reference),Telephone,Acquaintances,55.46
+Individuals in Community (Reference),Telephone,Professionals,9.27
+Individuals in Community (Reference),Internet,Family,21.82
+Individuals in Community (Reference),Internet,Acquaintances,26.36
+Individuals in Community (Reference),Internet,Professionals,17.22

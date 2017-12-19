@@ -1,0 +1,37 @@
+Individual Type,Functional Characteristics,Network member,Frequency
+Individuals with ID,Affection,Family,3.93
+Individuals with ID,Affection,Acquaintances,3.80
+Individuals with ID,Affection,Professionals,4.00
+Individuals with ID,Connection,Family,2.91
+Individuals with ID,Connection,Acquaintances,3.32
+Individuals with ID,Connection,Professionals,2.35
+Individuals with ID,Preference,Family,4.09
+Individuals with ID,Preference,Acquaintances,4.00
+Individuals with ID,Preference,Professionals,3.90
+Individuals with ID,Practical/Informational,Family,3.63
+Individuals with ID,Practical/Informational,Acquaintances,3.75
+Individuals with ID,Practical/Informational,Professionals,4.30
+Individuals with Autism Spectrum Disorder,Affection,Family,4.16
+Individuals with Autism Spectrum Disorder,Affection,Acquaintances,4.02
+Individuals with Autism Spectrum Disorder,Affection,Professionals,4.11
+Individuals with Autism Spectrum Disorder,Connection,Family,3.06
+Individuals with Autism Spectrum Disorder,Connection,Acquaintances,3.55
+Individuals with Autism Spectrum Disorder,Connection,Professionals,3.00
+Individuals with Autism Spectrum Disorder,Preference,Family,4.04
+Individuals with Autism Spectrum Disorder,Preference,Acquaintances,3.99
+Individuals with Autism Spectrum Disorder,Preference,Professionals,3.94
+Individuals with Autism Spectrum Disorder,Practical/Informational,Family,3.73
+Individuals with Autism Spectrum Disorder,Practical/Informational,Acquaintances,3.22
+Individuals with Autism Spectrum Disorder,Practical/Informational,Professionals,4.33
+Individuals in Community (Reference),Affection,Family,4.33
+Individuals in Community (Reference),Affection,Acquaintances,3.90
+Individuals in Community (Reference),Affection,Professionals,3.08
+Individuals in Community (Reference),Connection,Family,3.35
+Individuals in Community (Reference),Connection,Acquaintances,3.65
+Individuals in Community (Reference),Connection,Professionals,2.71
+Individuals in Community (Reference),Preference,Family,4.27
+Individuals in Community (Reference),Preference,Acquaintances,4.04
+Individuals in Community (Reference),Preference,Professionals,3.09
+Individuals in Community (Reference),Practical/Informational,Family,3.87
+Individuals in Community (Reference),Practical/Informational,Acquaintances,3.73
+Individuals in Community (Reference),Practical/Informational,Professionals,3.84
