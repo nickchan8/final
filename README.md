@@ -30,7 +30,7 @@ The purpose of this data visualization is to support my argument for a thesis ar
 
 ![Cleaning Data](https://i.imgur.com/K6Wow1t.png)
 
-![Cleaned Data](https://docs.google.com/a/sva.edu/spreadsheets/d/1IM77USKn7MSk9z3MMtYEPGikdaiLiVhCwk2NjUPCGQ4/edit?usp=sharing)
+[Cleaned Data](https://docs.google.com/a/sva.edu/spreadsheets/d/1IM77USKn7MSk9z3MMtYEPGikdaiLiVhCwk2NjUPCGQ4/edit?usp=sharing)
 
 ### Early Prototypes
 
